@@ -24,7 +24,7 @@ def appendfile(text):
 
 while(True):
     choice = str(
-        input("Type 'a' to add an idea or 'b' to force yourself to do your own idea: "))
+        input("Type 'a' to add an idea, or 'b' to force yourself to do your own idea: "))
 
     if choice == 'a':
         while(True):
